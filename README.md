@@ -1,5 +1,4 @@
-# smje4383-Advanced-Programming
-Testing to do a push request
+# SMJE4383-Advanced-Programming
 
 This repo is used to do the Advanced Programming Courses Project
 Any update will be listed here
@@ -15,7 +14,7 @@ Any update will be listed here
 
 Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html) for environment setup, Alternative, use docker
 
-Conda command
+###  Conda command
 | Command  | description |
 | ------------- | ------------- |
 | conda info | Show all package installed
